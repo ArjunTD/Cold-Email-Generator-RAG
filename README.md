@@ -1,1 +1,1 @@
-# Cold-Email-Generator-RAG-
+# Cold-Email-Generator-RAG
